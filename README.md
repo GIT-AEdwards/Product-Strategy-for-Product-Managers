@@ -1,7 +1,7 @@
 # Product-Strategy-for-Product-Managers
 
 # Product Strategy for Product Managers Nanodegree Program
-A collaborative initiative by Accenture LearnVantage and Girls Who Code in partnership with Udacity. Was granted a scholorship out of many learners who applied. Begin your product strategy journey with this course that covers all the fundamentals, including market research, user personas, and KPI-driven strategies. Learn to craft product visions, validate problems, and pitch to real stakeholders.
+A collaborative initiative by Accenture LearnVantage and Girls Who Code in partnership with Udacity. Was granted a scholarship out of many learners who applied. Begin your product strategy journey with this course that covers all the fundamentals, including market research, user personas, and KPI-driven strategies. Learn to craft product visions, validate problems, and pitch to real stakeholders.
 
 # Scope of Program
 The Product Strategy for Product Managers Nanodegree program is designed to equip aspiring product managers with the essential skills and knowledge needed to develop effective product strategies. Throughout the program, students learn how to identify market opportunities, define product visions, and create compelling business cases. The curriculum emphasizes practical applications, including market research, competitive analysis, and the development of key performance indicators (KPIs) to measure success. By the end of the program, participants are prepared to make informed decisions that drive product development and align with business objectives.
